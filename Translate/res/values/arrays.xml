@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android! 3e",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<resources>
+   <array name="languages">
+      <item>Bulgarian (bg)</item>
+      <item>Chinese Simplified (zh-CN)</item>
+      <item>Chinese Traditional (zh-TW)</item>
+      <item>Catalan (ca)</item>
+      <item>Croatian (hr)</item>
+      <item>Czech (cs)</item>
+      <item>Danish (da)</item>
+      <item>Dutch (nl)</item>
+      <item>English (en)</item>
+      <item>Filipino (tl)</item>
+      <item>Finnish (fi)</item>
+      <item>French (fr)</item>
+      <item>German (de)</item>
+      <item>Greek (el)</item>
+      <item>Indonesian (id)</item>
+      <item>Italian (it)</item>
+      <item>Japanese (ja)</item>
+      <item>Korean (ko)</item>
+      <item>Latvian (lv)</item>
+      <item>Lithuanian (lt)</item>
+      <item>Norwegian (no)</item>
+      <item>Polish (pl)</item>
+      <item>Portuguese (pt-PT)</item>
+      <item>Romanian (ro)</item>
+      <item>Russian (ru)</item>
+      <item>Spanish (es)</item>
+      <item>Serbian (sr)</item>
+      <item>Slovak (sk)</item>
+      <item>Slovenian (sl)</item>
+      <item>Swedish (sv)</item>
+      <item>Ukrainian (uk)</item>
+   </array>
+</resources>

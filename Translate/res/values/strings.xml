@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android! 3e",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<resources>
+   <string name="app_name">Translate</string>
+   <string name="from_text">From:</string>
+   <string name="to_text">To:</string>
+   <string name="back_text">And back again:</string>
+   <string name="original_hint">Enter text to translate</string>
+   <string name="empty"></string>
+   <string name="translating">Translating...</string>
+   <string name="translation_error">(Translation error)</string>
+   <string name="translation_interrupted">(Translation
+      interrupted)</string>
+</resources>
